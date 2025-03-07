@@ -1,0 +1,370 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    font-size: small;
+}
+.box{
+    margin-left:30px;
+}
+.phone
+{
+    margin-left:30px;
+    margin-right:0px;
+}
+.need{
+    margin-left:-30px;
+}
+.num{
+    margin-left:-11px;
+}
+
+.search{
+    margin-left: 350px;
+
+}
+.estore{
+    font-size: 30px;
+    font-weight:600;
+    margin-left:30px;
+    color:#265175;
+}
+.box{
+    font-size: 25px;
+    margin-left:290px;
+}
+.drop{
+    margin-right:42px;
+}
+.bx{
+    margin-right:20px;
+}
+.navbar1{
+    margin-left:0px;
+    color:black;
+    border: 1px solid  #e9ecef;
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.nav{
+    margin-right:19px;
+    color:black;
+    
+}
+.home{
+    margin-left:33px;
+    margin-right:20px;
+    color:black;
+}
+.navbar:hover{
+    color:blue;
+}
+
+/* body ---------------------------------------------------------*/
+.body{
+    margin-top:100px;
+}
+.girl{
+    width:515px;
+    height:515px;
+    margin-left: 0px;
+}
+.discover{
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.new{
+   background:rgb(178, 217, 230);
+   margin-right: 384px;
+   font-size: 13px;
+   color:rgb(58, 58, 173);
+   font-weight: 500;
+   height:28px;
+   line-height: 26px;/* takes text at the center wrt bg*/
+}
+.discover{
+    color:#265175;
+    font-weight:580;
+}
+.fashion{
+    color:rgb(44, 44, 184);
+    text-decoration: underline;
+    text-decoration-color:rgb(178, 217, 230) ;
+}
+.lorem{
+    color:#265175;
+}
+.shop{
+    background: rgb(44, 44, 184);
+    border: rgb(44, 44, 184);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    height:45px;
+    width:137px;
+   
+    
+}
+.shop:hover{
+background-color:rgb(25, 25, 184);
+
+}
+.arrow{
+    
+    margin-left:5px;
+    margin-top: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+
+}
+.view{
+    background-color: white;
+    border:1px solid rgb(211, 201, 201);
+    color:rgb(24, 23, 23);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    height:45px;
+    width:137px;
+    line-height: 30px;
+
+}
+.view:hover{
+    border:1px solid black
+}
+.bi1{
+    margin-right: 8px;
+    color:rgb(44, 44, 184);
+}
+.bi2{
+    margin-right: 8px;
+    margin-left: -50px;
+    color:rgb(44, 44, 184);
+}
+.bi3{
+    margin-right: 8px;
+    margin-left: -95px;
+    color:rgb(44, 44, 184);
+}
+.free{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.part2
+{
+    margin-top:100px;
+    margin-bottom: 50px;
+    background-color:rgb(246, 244, 255) ;
+    display:inline-block;
+}
+.set{
+    color:#265175;
+    padding-left: 95px;
+    
+}
+.para{
+    color:#265175;
+    text-align: center;
+    font-size: 14px;
+}
+.para1{
+    color:#265175;
+    padding-left: 61px;
+   
+}
+.money{
+    color:#265175;
+    padding-left: 35px;}
+.row1{
+    padding:49px;
+}
+.footer1
+{
+    margin-top:100px;
+    background-color:rgb(246, 244, 255) ;
+text-align: center;
+}
+.link{
+    text-decoration: none;
+}
+/*Footer------------------------------------------------------------------------------*/
+.option{
+    font-size: 21px;
+    margin-left:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.accept{
+    font-size: 13px;
+    color:rgb(85, 81, 81);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.accept1{
+    font-size: 13px;
+    margin-top: -12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.term{
+    font-size: 12px;
+    margin-bottom: 32px;
+    margin-top: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(83, 91, 94)
+    
+}
+
+
+/*last container----------------------------------------------------------------------------------------------------------*/
+
+.last{
+    margin-top: 69px;
+    margin-bottom: -20px;
+    
+}
+.dh{
+    font-size:15px;
+    color:#265175;
+    
+}
+.lo{
+    font-size:15px;
+    color:#265175;
+}
+.arrival{
+    text-decoration: none;
+    font-size: 14px;
+     color:#265175;
+    margin-top: 11px;
+    display:inline-block;
+}
+.arrival:hover{
+    text-decoration: underline;
+}
+.fas{
+    font-size: 14px;
+    color:#265175; 
+    margin-left: 8px;
+}
+.help{
+    text-decoration: none;
+}
+.help:hover{
+    text-decoration: underline;
+}
+.about{
+    text-decoration: none;
+}
+.about:hover{
+    text-decoration: underline;
+}
+.gbi{
+    margin-right: 5px;
+    color:black;
+}
+.gbi:hover{
+    margin-right: 5px;
+    color:white;
+    font-size:15px;
+}
+.gbtn:hover .gbi{
+    color: white;
+}
+.gbtn:hover .ap{
+    color: white;}
+.gbtn{
+    background: rgb(230, 228, 228);
+    margin-bottom: 15px;
+    width:119px;
+    height:37px;
+    
+}
+.gbtn:hover{
+    background: rgb(44, 44, 184);
+    margin-top: -9px;
+    color:white;
+    
+}
+.ap{
+    color:black;
+    font-size:14px;
+}
+.ap:hover{
+    color:white;
+    font-size:14px;
+}
+
+.fbtn{
+    background: rgb(230, 228, 228);
+    border: none;
+    height:36px;
+    width:41px;
+}
+.fbi{
+    color:black;
+    font-size:15px;
+    transition: transform 0.3s ease-in-out;
+}
+.fbi:hover{
+    color:white;
+    font-size:15px;
+    display:inline-block;
+transform: rotate(360deg);
+}
+.es{
+    color:#265175;
+    margin-bottom: 8px;
+}
+.fbtn:hover .fbi{
+    color:white;}
+
+/* JOIN OUR NEW LETTER CONTAINER----------------------------------------------------------------------------*/
+
+.letter{
+    margin-top: 80px;
+    background-color:rgb(246, 244, 255) ;
+}
+/*join our letter-----------------------------------------------------------*/
+.em{
+    height:-20px;
+    width:376px;
+    margin-right: 5px;
+    margin-bottom: 62px;
+}
+.embtn{
+    height:36px;
+    width:107px;
+}
+.join{
+    font-size: 24px;
+    color:#265175;
+    padding-top: 48px;
+}
+.subs{
+    font-size: 14px;
+    color:#265175;
+}
+/*Swipper-------------------------------------------------------------------------------*/
+.card{
+    width: 10rem;
+    background-color:rgb(246, 244, 255) ;
+    text-align: center;
+    
+}
+.card1{
+    text-decoration: none;
+      color:#265175;
+    font-weight: bold;
+    font-size:15px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pro{
+    
+    font-size:13px;
+    color:#265175;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*-------extra---------------------*/
+

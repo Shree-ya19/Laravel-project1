@@ -366,5 +366,133 @@ transform: rotate(360deg);
     color:#265175;
     font-family: Arial, Helvetica, sans-serif;
 }
-/*-------extra---------------------*/
+/*-------Best Seller ---------------------*/
+.best{
+    margin-top: 123px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+.sell{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#265175;
+    font-size: 30px;
 
+}
+.nec{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 15px;
+    margin-bottom:58px ;
+
+}
+/*---------------view collection----------*/
+
+.coll{
+    margin-left: 526px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -5px;
+    margin-top: 59px;
+    
+}
+.arr{
+   margin-left: 14px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*-----------------------------add to cart-------*/
+.add{
+    width:195px;
+
+}
+.add1{
+    font-size: 11px;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-right: 5px;
+}
+.cart{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image{
+    background-color:rgb(246, 244, 255);
+}
+
+
+.cbody{
+background-color: white;
+}
+.dollar{
+    text-align: left;
+    color:#265175 ;
+    font-size:19px;
+    font-weight: bold;
+    margin-bottom: -8px;
+    margin-top: 21px;
+}
+.ltext{
+    font-size: 14px;
+    color:#265175;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.star{
+   font-size: 14px;
+    color:rgb(248, 206, 17);
+    text-align: left;
+    margin-right: -6px;
+}
+.star1{
+    font-size: 14px;
+     color: rgb(248, 206, 17);
+     margin-right: -6px;
+     margin-left: -118px;
+ }
+ /*-----------------------------------------------------------------*/
+ .slide.container {
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    width: 100%;
+}
+
+.srow {
+    display: flex;
+    flex-wrap: nowrap;
+    animation: slide 19s steps(6) infinite; /* Moves step by step */
+}
+
+/* Ensuring all columns stay in a row and have equal spacing */
+.col-md-2 {
+    flex: 0 0 auto;
+    width: 16.666%;
+}
+
+/* Card styling to maintain the design */
+.card {
+    width: 100%;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Updated Sliding Animation with Steps */
+@keyframes slide {
+    0%, 16.66% { transform: translateX(0); }  /* Pause at start */
+    20%, 36.66% { transform: translateX(-16.66%); } /* Move 1 step */
+    40%, 56.66% { transform: translateX(-33.32%); } /* Move 2nd step */
+    60%, 76.66% { transform: translateX(-49.98%); } /* Move 3rd step */
+    80%, 96.66% { transform: translateX(-66.64%); } /* Move 4th step */
+    100% { transform: translateX(-83.3%); } /* Move final step */
+}
+
+/* Duplicate row for seamless effect */
+.duplicate {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 100%;
+}

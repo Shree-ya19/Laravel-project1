@@ -1,4 +1,4 @@
-@extends('admin.layout.master')
+@extends('frontend.layout.master')
 @section('container')
 
             <!-- Sale & Revenue Start -->
